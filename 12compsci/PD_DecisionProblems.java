@@ -74,7 +74,6 @@ public class PD_DecisionProblems { // This program contains a menu of some simpl
 		// for the other prints
 		// in order to keep them aligned
 		String paddingTabAmount = "";
-
 		for (int i = 0; i < Math.max(itemName.length() / 7, 1); i++) // Loop as many times as the length divided by 7
 			paddingTabAmount += "\t";
 
