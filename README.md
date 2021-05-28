@@ -6,6 +6,6 @@ I wasn't able to experience grade 12 TOPS because of the pandemic :P but certain
 - Calculus: We take calculus in grade 11 TOPS in the "Advanced Functions" course. The Grade 12 "Calculus & Vectors" course is a lot broader than calculus and typically goes through first-year linalg.
 - Chemistry: I wasn't able to take grade 12 chem, but my grade 12 chem "enriched" course was pretty much the grade 11 TOPS chem course (New units were mainly kinetics).
 
-This is a non-exhuastive list about what's different in *Grade 12* TOPS from "enriched" school. If you're really interested in understanding the differences between TOPS and regular school, I'd recommend either reaching out to the curriculum leader (Currently Ms. Hermanovsky if I recall correctly). If you're interested in a student's perspective, feel free to contact me at dhrumilp15@gmail.com (or dhrumilp15#4369 on discord) and we'll set up a call. :)
+This is a non-exhuastive list about what's different in *Grade 12* TOPS. If you have questions about what makes TOPS different, I'd recommend reaching out to the curriculum leader (Currently Ms. Hermanovsky if I recall correctly). If you're interested in a student's perspective, I'd love to chat with you! Contact me at dhrumilp15@gmail.com (or dhrumilp15#4369 on discord) and we'll set up a call. :)
 
-I'm posting these mainly for the many younger students who have asked me about grade X(usually 11 or 12) TOPS work. :)
+I'm posting these mainly for the many students who have asked me about grade X(usually 11 or 12) TOPS work. :)
