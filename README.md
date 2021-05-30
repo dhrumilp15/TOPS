@@ -8,4 +8,4 @@ I wasn't able to experience grade 12 TOPS because of the pandemic :P but certain
 
 The above is a non-exhuastive list about what's different in *Grade 12* TOPS. If you have questions about what makes TOPS different, I'd recommend reaching out to the curriculum leader (Currently Ms. Hermanovsky if I recall correctly). If you're interested in a student's perspective, feel free to message me at dhrumilp15@gmail.com or dhrumilp15#4369 on discord and we'll set up a call. :)
 
-I'm posting these mainly for the many students who have asked me about grade X(usually 11 or 12) TOPS work. :)
+I'm posting these mainly for the many students who have asked me about grade (11 / 12) TOPS work. :)
